@@ -841,6 +841,7 @@ button {
     flex-wrap: nowrap;
     align-items: baseline;
     gap: 0;
+    width: auto;
     padding-left: 15px;
   }
   .footer-info {
