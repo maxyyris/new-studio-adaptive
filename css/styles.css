@@ -227,6 +227,9 @@ button {
     display: flex;
     gap: 40px;
   }
+  .header-contacts-list-item {
+    font-size: 16px;
+  }
 }
 
 @media only screen and (max-width: 767px) {
@@ -236,7 +239,6 @@ button {
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
       0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
   }
-
   .header-nav-list,
   .header-contacts {
     display: none;
